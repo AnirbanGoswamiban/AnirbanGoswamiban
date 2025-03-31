@@ -4,11 +4,9 @@
 
 <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/> -->
 
----
-
 # 💻 Tech Stack:
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -63,9 +61,9 @@
 # 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnirbanGoswamiban/AnirbanGoswamiban/gitConfig/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnirbanGoswamiban/AnirbanGoswamiban/gitConfig/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/AnirbanGoswamiban/AnirbanGoswamiban/gitConfig/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AnirbanGoswamiban/gitConfig/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AnirbanGoswamiban/gitConfig/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/AnirbanGoswamiban/gitConfig/blob/output/github-snake.svg" />
 </picture>
 
 
